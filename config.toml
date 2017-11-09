@@ -1,0 +1,10 @@
+baseURL = "overview/"
+languageCode = "fr-FR"
+defaultContentLanguage = "fr"
+
+title = "BCPanel Documentation"
+theme = "hugo-theme-learn"
+themesdir = "themes"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+

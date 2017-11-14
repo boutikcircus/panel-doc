@@ -11,3 +11,4 @@ chapter: true
 # Démarrage
 
 Découvrez comment utiliser ce panel et apprenez en les concepts
+<!--Ija8yha6bo -->

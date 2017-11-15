@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Facturation on BCPanel Documentation</title>
+    <link>overview/navigation/facturation/</link>
+    <description>Recent content in Facturation on BCPanel Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Thu, 09 Nov 2017 17:24:32 +0100</lastBuildDate>
+    
+	<atom:link href="overview/navigation/facturation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

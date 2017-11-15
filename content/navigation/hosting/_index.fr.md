@@ -23,3 +23,10 @@ Sur cet écran, vous pourrez visualiser rapidement les informations de votre ser
 
 Le bloc ***Système*** vous permettra de visualiser les services **Apache** présents sur votre serveur ainsi que leur statuts.<br/>
 En cliquant sur le bouton switch correspondant au service vous pourrez l'activer ou le désactiver. Le reour de la commande s'affichera dans le bloc ***Backtrace***.
+
+
+## Backups
+
+Ici, vous aurez simplement un aperçu des différents backups disponible.
+
+<code>A venir : Possibilité de restaurer un backup</code>

@@ -4,8 +4,11 @@ date: 2017-11-09T17:24:32+01:00
 weight: 40
 ---
 
-### Chapitre 2
+![Factures](/navigation/facturation/images/facturation.png?classes=shadow&width=60pc)
 
-# Facturation
+Il s'agit d'un listing de toutes vos factures avec les informations suivantes :
 
-Découvrez comment utiliser ce panel et apprenez en les concepts
+1. Numéro de factures
+2. La date de la factures
+3. Le Montant TTC
+4. Le statut
